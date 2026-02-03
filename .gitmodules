@@ -1,0 +1,6 @@
+[submodule "pointers"]
+	path = pointers
+	url = https://github.com/rodanuf/pointers.git
+[submodule "lab3_2ndsem"]
+	path = lab3_2ndsem
+	url = https://github.com/rodanuf/lab3_2ndsem.git
