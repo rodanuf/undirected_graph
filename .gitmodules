@@ -4,3 +4,6 @@
 [submodule "lab3_2ndsem"]
 	path = lab3_2ndsem
 	url = https://github.com/rodanuf/lab3_2ndsem.git
+[submodule "lazy_sequence"]
+	path = lazy_sequence
+	url = https://github.com/rodanuf/lazy_sequence.git
