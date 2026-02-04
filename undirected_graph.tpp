@@ -64,6 +64,8 @@ array_sequence<list_sequence<int>> undirected_graph<t_vertex, t_edge>::find_conn
         visited.append_element(false);
     }
 
+    array_sequence<list_sequence<int>> components;
+
     std::function<void(int, list_sequence<int> &)> dfs =
         [&](int v, list_sequence<int> &comp)
     {

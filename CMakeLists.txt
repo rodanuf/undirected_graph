@@ -41,3 +41,11 @@ target_link_libraries(tests PRIVATE
 )
 
 gtest_discover_tests(tests)
+
+add_executable(graph
+    main.cpp
+)
+
+add_executable(benchmark
+    benchmark.cpp
+)

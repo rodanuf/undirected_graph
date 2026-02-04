@@ -1,7 +1,7 @@
 #pragma once
 
 #include "lab3_2ndsem/headers/list_sequence.hpp"
-#include "lazy_sequence/lazy_sequence.hpp"
+#include "lab3_2ndsem/headers/array_sequence.hpp"
 #include "pointers/uniq_ptr.hpp"
 #include "vertex.hpp"
 #include <functional>
